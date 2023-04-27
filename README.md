@@ -1,4 +1,4 @@
-### Olá 👋
+### Hello! 👋
 
 <!--
 **JessicaXavierGravina/JessicaXavierGravina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 &nbsp;
 <div align="center">
-	 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=40&duration=4000&color=ff6f9c&center=true&vCenter=true&multiline=true&width=300&height=65&lines=Bem-vindo+%f0%9f%92%be">
+	 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=40&duration=5000&color=ff6f9c&center=true&vCenter=true&multiline=true&width=300&height=65&lines=Welcome+%F0%9F%8C%90">
 </div>
 
 
 &nbsp;
 <div align="center">
-<p>Me chamo Jéssica Xavier Gravina trabalho como Desenvolvedora, focada naminha carreira e muito boa solucionando problemas.</p>
-<p>Altamente dedicada a tudo em que estou envolvida, sou curiosa e capaz de aprender novas habilidades. Comprometida com a educação continuada e apaixonada pela tenologia, estando sempre disposta a explora-la, entusiasmada para novos aprendizados e desafios criando soluções elegantes no menor espaço de tempo possível.</p> 💬 😄
+<p>My name is Jéssica Xavier Gravina, I work as a Developer, focused on my career and very good at solving problems.</p>
+<p>Highly dedicated to everything I'm involved in, I'm curious and able to learn new skills. Committed to continuing education and passionate about technology, always willing to explore it, enthusiastic about new learning and challenges, creating elegant solutions in the shortest possible time.</p> 💬 😄
 &nbsp;
 
