@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 &nbsp;
 <div align="center">
-<p>Me chamo Jéssica Xavier Gravina trabalho como Desenvolvedora, apaixonada pela tenologia e estou sempre disposta a explora-la. </p>
-<p>Sou curiosa, capaz de aprender novas habilidades e altamente dedicada a tudo em que estou envolvida, comprometida com a educação continuada, entusiasmada para novos aprendizados e desafios. Sempre que possível busco automatizar tarefas rotineiras, crio soluções elegantes no menor espaço de tempo possível, focada naminha carreira e muito boa comsoluções de problemas.</p> 💬 😄
-
+<p>Me chamo Jéssica Xavier Gravina trabalho como Desenvolvedora, focada naminha carreira e muito boa solucionando problemas.</p>
+<p>Altamente dedicada a tudo em que estou envolvida, sou curiosa e capaz de aprender novas habilidades. Comprometida com a educação continuada e apaixonada pela tenologia, estando sempre disposta a explora-la, entusiasmada para novos aprendizados e desafios criando soluções elegantes no menor espaço de tempo possível.</p> 💬 😄
 &nbsp;
 
